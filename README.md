@@ -1,7 +1,7 @@
-## Hello, it's me, Aslak! wave
+## Bonjour, je suis StrX, un développeur intermédiaire.
 ![](https://github.com/aslakoffi/aslakoffi/blob/master/icons/header_.png)
 
-[![Active](https://img.shields.io/badge/Langages-JS%20/%20TS%20/%20Go%20/%20Java-cyan?style=flat-square)](https://www.github.com/aslakoffi)
+[![Active](https://img.shields.io/badge/Langages-JS%20/%20TS%20/%20Go%20/%20Java-cyan/%20Php-blue?style=flat-square)](https://www.github.com/cstif)
 [![Active](https://img.shields.io/badge/Discord-CLICK-blue?style=flat-square&logo=discord)](https://discord.gg/9njkkWmVVt) 
 
 ### Don't you know what to do ?
