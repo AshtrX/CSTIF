@@ -6,6 +6,10 @@
 
 ### Mes stats
 
-n'hésitez pas à aimé mes projets !
-
 [![Active](https://github-readme-stats.vercel.app/api?username=CSTIF&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/CSTIF)
+
+### CSTR
+
+On se retrouve à bientôt pour de nouveaux projets !
+
+![](https://github.com/aslakoffi/aslakoffi/blob/master/icons/docker.gif)
